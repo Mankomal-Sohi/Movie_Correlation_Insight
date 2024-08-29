@@ -5,15 +5,15 @@ This project explores the relationships between various features in a movie data
 
 # Features
 
-# Data Cleaning and Preparation: 
+Data Cleaning and Preparation: 
 Utilized Pandas for efficient data manipulation and cleaning, ensuring a reliable dataset for analysis.
 
-# Numerical Analysis: 
+Numerical Analysis: 
 Employed NumPy for handling numerical operations and computing essential statistics.
 
-# Correlation Matrix: 
+Correlation Matrix: 
 Generated a correlation matrix to uncover hidden relationships between different movie attributes.
 
-# Visualizations: 
+Visualizations: 
 Created insightful visualizations using Seaborn and Matplotlib, making it easier to interpret the data and findings.
 Key Insights: Identified and highlighted significant correlations, providing valuable insights for movie data analysis and decision-making.
